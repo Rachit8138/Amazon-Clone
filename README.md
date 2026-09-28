@@ -5,4 +5,9 @@ Special thanks to **Shraddha Khapra ma'am** and **Apna College** for providing t
 
 Overall, this project was a great learning experience and helped me build a stronger foundation in web development.
 <br>
+# Webpage Preview
+The image below provides a visual preview of the completed webpage and showcases the overall design and layout of the project
+
+
+
 <img width="1341" height="2165" alt="image" src="https://github.com/user-attachments/assets/0e7a32c4-fdfb-49dd-bf64-c564500bea57" />
